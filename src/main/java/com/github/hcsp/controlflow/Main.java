@@ -20,5 +20,6 @@ public class Main {
             sb.append(str.charAt(i));
         }
         return sb.toString().equals(str);
+
     }
 }
